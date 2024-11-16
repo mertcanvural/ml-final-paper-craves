@@ -1,0 +1,16 @@
+data/*
+!data/meta/
+checkpoint
+visualization
+miscs
+debug.py
+cyclegan_adda_related_scripts
+saved_results
+anno_tool
+
+*.pyc
+*~
+tags
+.vscode/
+
+
